@@ -67,25 +67,29 @@ export const info = {
             title: "NatureTrails",
             live: "https://github.com/ShivamGoel05/nature-trails",
             source: "https://github.com/ShivamGoel05/nature-trails",
-            image: mock1
+            image: mock1,
+            description: "Full stack web application that enables camping enthusiasts to contribute and discover camping destinations"
         },
         {
             title: "Concurrent Traffic Simulation",
             live: "https://github.com/ShivamGoel05/concurrent-traffic-simulation",
             source: "https://github.com/ShivamGoel05/concurrent-traffic-simulation",
-            image: mock2
+            image: mock2,
+            description: "Multithreaded traffic simulator on real urban map built using concurrent programming in C++"
         },
         {
             title: "OpenStreetMap Route Planner",
             live: "https://github.com/ShivamGoel05/OpenStreetMap-route-planner",
             source: "https://github.com/ShivamGoel05/OpenStreetMap-route-planner",
-            image: mock3
+            image: mock3,
+            description: "Route planning application to find the optimal path between 2 points on any 2D map using A* Search Algorithm"
         },
         {
             title: "Music Player",
             live: "https://github.com/ShivamGoel05/music-player",
             source: "https://github.com/ShivamGoel05/music-player",
-            image: mock4
+            image: mock4,
+            description: "Music Player with an aesthetic and visually appealing design crafted with inspiration from Spotify"
         }
     ]
 }
