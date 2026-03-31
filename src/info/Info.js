@@ -45,7 +45,7 @@ export const info = {
             label: 'linkedin'
         }
     ],
-    bio: "Hello! I'm Shivam. I'm a final year student studying Bachelor of Technology in Computer Science and Engineering at SRM Institute of Science and Technology. I specialise in MERN stack web development and programming languages like: C++, Java and JavaScript.",
+    bio: "Hello! I'm Shivam. I'm a Software Engineer at Tata Consultancy Services. I specialise in MERN stack web development and programming languages like: C++, Java and JavaScript.",
     skills:
     {
         proficientWith: ['c++', 'java', 'javascript', 'sql', 'mongoDB', 'express.js', 'react.js', 'node.js'],
