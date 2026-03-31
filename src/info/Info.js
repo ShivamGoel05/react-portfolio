@@ -11,18 +11,22 @@ export const info = {
     firstName: "Shivam",
     lastName: "Goel",
     initials: "sg",
-    position: "a Software Developer",
+    position: "a Software Engineer",
     selfPortrait: self,
     gradient: `-webkit-linear-gradient(135deg, ${colors})`,
     baseColor: colors[0],
     miniBio: [
+        {
+            emoji: "💼",
+            text: "Tata Consultancy Services"
+        },
         {
             emoji: '📍',
             text: 'New Delhi, India'
         },
         {
             emoji: "🎓",
-            text: "Final year student of B.Tech in CSE at SRMIST"
+            text: "B.Tech in Computer Science, SRM IST Chennai"
         },
         {
             emoji: "📧",
